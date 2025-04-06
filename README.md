@@ -17,8 +17,8 @@ Welcome to the **Boni Auto Host Discovery Tool**. This project allows you to aut
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/boniyeamincse/boni-auto-host-discovery.git
-    cd boni-auto-host-discovery
+    git clone https://github.com/boniyeamincse/Autohostdiscovery.git
+    cd Autohostdiscovery
     ```
 
 2. Make the script executable:
